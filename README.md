@@ -4,7 +4,8 @@
 ##Descreption
 the application is aimed at tracking triangles through basic insertion of measurements which will provide information of what type a triangle the measurements give fro equilateral to scalene.
 ##set up
-insert measures throug sideA to sideC slots
+https://github.com/mulwhiski/TRIANGLE-TRACKER.git
+insert measures through sideA to sideC slots
 submit
 ##technologies used
 i have used HTML(for the portfolio stucture),CSS(for different styles for visual appearence) and finall javascript(for bussiness and user interface functions)
